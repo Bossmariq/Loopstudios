@@ -13,7 +13,7 @@ FEATURES SECTION: Comprises of an Image and contents, where the content was posi
 
 CREATIONS SECTION: Here i have some components, and images with gradient overlay on hover
 
-FOOTER : Comprises of the logo, some anchor tags and social icoms in svg format (given a hover style)
+FOOTER : Comprises of the logo, some anchor tags and social icons in svg format (given a hover style)
 
 ## Usage
 
